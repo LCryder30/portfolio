@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+h1,
+h3,
+h2{
+  text-align: center;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: peachpuff url(https://images.unsplash.com/photo-1523878288860-7ad281611901?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+  opacity: 0.7;
+  background-position: no-repeat;
+  background-size: auto; 
+  color: rgb(0, 108, 122);
+  
+}
+
+img {
+  max-width: 250px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  
+}
+
+
+
+
+#img-div {
+  max-width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+.dates {
+  text-align: center;
+}
+
+a:link {
+  color: rosybrown;
+}
+
+a:visited {
+  color: green;
+}
